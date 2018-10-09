@@ -1,0 +1,33 @@
+{
+  "name": "minimalistic-starter-kit",
+  "version": "1.0.0",
+  "description": "minimalistic-starter-kit  with SCSS & Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechiePriyaRanjan/minimalistic-starter-kit.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "SCSS",
+    "HTML",
+    "CSS",
+    "Gulp"
+  ],
+  "author": "TechiePriyaRnjn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TechiePriyaRanjan/minimalistic-starter-kit/issues"
+  },
+  "homepage": "https://github.com/TechiePriyaRanjan/minimalistic-starter-kit#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.1"
+  }
+}

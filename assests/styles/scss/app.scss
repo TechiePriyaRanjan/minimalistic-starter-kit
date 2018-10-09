@@ -1,0 +1,19 @@
+$body-bg: #f7f7f7;
+
+// Curated colors
+
+$color-1: #FF6685;
+$color-2: #FFA366;
+$color-3: #FFD166;
+$color-4: #B4DE85;
+$color-5: #8AE6CD;
+$color-6: #90D0F0;
+$color-7: #807766;
+
+// ********************************
+
+body{
+  background: $body-bg;
+  padding: 0;
+  margin: 0;
+}
